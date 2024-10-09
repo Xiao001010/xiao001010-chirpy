@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: Hao Xu # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Hello, I am now a Msc student majored in HPC with Data Science # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -126,7 +126,7 @@ comments:
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
-    lang: zh-CN # optional, default to the value of `site.lang`
+    lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/xiao001010.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
